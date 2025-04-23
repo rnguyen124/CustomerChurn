@@ -4,4 +4,5 @@ In this project, I am tasked with analyzing a telecoommunications customer datas
 
 My analysis will explore why customers leave using the data attributes provided. The goal of this analysis is to help identify potential churn risks through data analysis and machine learning. This will enable a company to take proactive steps in customer retention by making data driven recommendations. 
 
-Click on the Jupyter Notebook file to view project
+(Click on the Jupyter Notebook file to view project)
+No download required**
